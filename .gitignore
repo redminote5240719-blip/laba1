@@ -1,13 +1,2 @@
-# Ignore build folders
-bin/
-obj/
-
-# Ignore log files
-*.log
-
-# Ignore temporary files
-*.tmp
-
-# Ignore system files
-.DS_Store
-Thumbs.db
+.vscode/
+*.txt
